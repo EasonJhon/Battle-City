@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 50a82b5852e6e1c428326715a32aba05
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bullectPrefab: {instanceID: 0}
+  - explosionPrefab: {instanceID: 0}
+  - defendEffectPrefab: {instanceID: 0}
+  - moveAudio: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
